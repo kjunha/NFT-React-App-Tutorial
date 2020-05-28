@@ -1,3 +1,7 @@
+/*
+Truffle basic
+
+*/
 require('babel-register');
 require('babel-polyfill');
 
